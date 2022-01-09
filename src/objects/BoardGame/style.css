@@ -2,4 +2,5 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;/*espaço entre elementos do display flex*/
+    justify-content: space-evenly;
 }
