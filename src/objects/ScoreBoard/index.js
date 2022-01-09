@@ -1,6 +1,5 @@
-import "./style.css"
 import PlayerName from "../../components/PlayerName/index.js"
-
+import "./style.css"
 function ScoreBoard(){
     return /*html*/`
         <header class="score-board">
